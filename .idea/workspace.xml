@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af4cd3c2-c3d7-403b-979a-604951fc2b30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pz1_server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/events/MessagesListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/events/PeersListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/MessageDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Peer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/PeerDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/MessagesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/MainWindow.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/PeerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/MessagesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/MessagesService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +19,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -82,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707334022187</updated>
-      <workItem from="1707334023226" duration="2895000" />
+      <workItem from="1707334023226" duration="5570000" />
     </task>
     <servers />
   </component>
